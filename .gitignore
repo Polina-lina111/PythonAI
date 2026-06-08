@@ -1,0 +1,4 @@
+.idea
+.venv
+~*.pptx
+*/.ipynb_checkpoints
