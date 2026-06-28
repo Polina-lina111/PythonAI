@@ -2,3 +2,10 @@
 .venv
 ~*.pptx
 */.ipynb_checkpoints
+
+__pycache__/
+*.pyc
+*.tar.gz
+*.pt
+
+**/data/
